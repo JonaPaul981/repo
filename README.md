@@ -1,2 +1,2 @@
-# DEBER 1
+DEBER 1
 Primer repositorio realizado
